@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A note on blockchain in public sector services
+title: A note on blockchain & public sector services
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Fraud.png)
