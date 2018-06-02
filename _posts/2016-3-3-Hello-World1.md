@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-![_config.yml]({{ site.baseurl }}/Kisgus.github.io/images/Fraud.png
+![_config.yml]({{ site.baseurl }}/images/Fraud.png)
 
 
 Heeeeeey. Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
