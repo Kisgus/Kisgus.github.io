@@ -11,3 +11,5 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/Human.PNG
 
+http://kisgus.github.io/images/Human.png
+
