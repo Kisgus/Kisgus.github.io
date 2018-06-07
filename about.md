@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Choosing the right side
 permalink: /about/
 ---
-
-## Choosing the right side
 
 > That is, while there is value in technology, I value humans more
 
