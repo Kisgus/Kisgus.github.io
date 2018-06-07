@@ -11,15 +11,8 @@ permalink: /about/
 
 ## Human with a tech touch
 
-I am in fascinated by technolog
+https://kisgus.github.io/images/Human.PNG
 
-
-I specialize in applying distributed ledger technology in the design process of currencies, governance systems & organizational processes. 
-
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
