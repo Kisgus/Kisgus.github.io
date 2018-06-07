@@ -4,7 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Choosing the right side
+
+> That is, while there is value in technology, I value humans more
+
+
+## Human with a tech touch
+
+I am in fascinated by technolog
+
+
+I specialize in applying distributed ledger technology in the design process of currencies, governance systems & organizational processes. 
+
 
 ### More Information
 
