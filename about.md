@@ -11,8 +11,7 @@ permalink: /about/
 
 ## Human with a tech touch
 
-https://kisgus.github.io/images/Human.PNG
-
+![_config.yml]({{ site.baseurl }}/images/Human.PNG
 
 ### Contact me
 
