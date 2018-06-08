@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Choosing the right side
+title: Choosing the *right* side
 permalink: /about/
 ---
 
