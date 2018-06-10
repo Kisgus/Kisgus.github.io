@@ -5,6 +5,7 @@ title: Why the world needs People Powered Money
 
 ![_config.yml]({{ site.baseurl }}/images/Powered.png)
 
+Picture from [EDCON] (https://www.youtube.com/watch?v=3SjKpnTDRDo&t=3s), Toronto, 2018
 
 
 > An artificially made pine forest, designed to utmost efficiency, is vulnerable to sparks of fire, contrary to the resilience of a natural diverse ecosystem. In this post, I will explain how the same universal dynamics applies to the sustainability of the financial system.
@@ -65,8 +66,7 @@ The Positive Money movement suggests to take away the power from commercial bank
 
 Finally, there is People Money, or People Powered Money as the EU funded CCIA initiative names it. This in turn is complementary currencies, issued by groups of citizens or businesses, driven by local, social, environmental, commercial or mixed purposes. These currencies take offline or digital forms and are a response to the fundamental need of having a medium of exchange. A need which, due to the scarcity or volatility of bank and government monies, persists to exist all over the world. Contemporary examples range from community oriented ones (e.g LETS, Bangla-Pesa and Time Banking systems) through membership-based business networks (e.g WIR bank and Sardex), and customer ‘loyalty points’ oriented designs (e.g Frequent Flyer Miles) to blockchain technology based cryptocurrencies (e.g. Bitcoin, Ethereum and Z-cash).
 
-![_config.yml]({{ site.baseurl }}/images/Dynamics3 2.png)
-
+![_config.yml]({{ site.baseurl }}/images/Dynamics 3 2.png)
 
 The effect of diverse Complementary Currencies (Lietaer et al. 2009)
 People Powered Money initiatives, being complementary and diverse, have the potential to sacrifice efficiency on behalf of resilience, thereby moving the financial system to the right direction towards a sustainable balance between the two.
