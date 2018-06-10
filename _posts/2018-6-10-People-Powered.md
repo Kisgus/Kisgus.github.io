@@ -5,9 +5,10 @@ title: Why the world needs People Powered Money
 
 ![_config.yml]({{ site.baseurl }}/images/Powered.png)
 
+
 Picture from [EDCON](https://www.youtube.com/watch?v=3SjKpnTDRDo&t=3s), Toronto, 2018
 
-> An artificially made pine forest, designed to utmost efficiency, is vulnerable to sparks of fire, contrary to the resilience of a natural diverse ecosystem. In this post, I will explain how the same universal dynamics applies to the sustainability of the financial system.
+> An artificially made pine forest, designed to utmost efficiency, is vulnerable to sparks of fire, contrary to the resilience of a natural diverse ecosystem. In this post, I seek to explain how the same universal dynamics applies to the sustainability of the financial system. 
 
 ![_config.yml]({{ site.baseurl }}/images/Fire 2.png)
 
