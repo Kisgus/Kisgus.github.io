@@ -90,4 +90,4 @@ I would like to thank Matthew Slater, founder of Community Forge, a provider of 
 
 The post was written by Gustav Friis who helps build the Trustlines Network which is based on the original Ripple idea, but implemented on the Ethereum blockchain.
 
-You can find the original post from July 2017 [here] (https://medium.com/the-trustlines-network/why-the-world-needs-people-powered-money-68f0e0ef341c)
+You can find the original post from July 2017 [here](https://medium.com/the-trustlines-network/why-the-world-needs-people-powered-money-68f0e0ef341c)
