@@ -7,7 +7,7 @@ title: Why the world needs People Powered Money
 
 
 
-An artificially made pine forest, designed to utmost efficiency, is vulnerable to sparks of fire, contrary to the resilience of a natural diverse ecosystem. In this post, I will explain how the same universal dynamics applies to the sustainability of the financial system.
+> An artificially made pine forest, designed to utmost efficiency, is vulnerable to sparks of fire, contrary to the resilience of a natural diverse ecosystem. In this post, I will explain how the same universal dynamics applies to the sustainability of the financial system.
 
 ![_config.yml]({{ site.baseurl }}/images/Fire 2.png)
 
@@ -30,6 +30,10 @@ Currency expert Bernard Lietaer refers to this phenomenon as a monetary monocult
 
 A first glance at the 147 systemic banking crises and 218 monetary crisis, which according to the IMF have taken place during the period 1970–2011, makes one (and the countless people affected) wonder if crashes are in fact an inherent property of the system?
 
+
+![_config.yml]({{ site.baseurl }}/images/Dynamics1.png)
+
+
 Grounded in scientific evidence, the argument goes that the financial system is optimized towards efficiency and, because of that, barely has any resilience properties. Practically speaking this refers to efficiency in terms of: 1) having only one dominant type of money, 2) that financial and currency markets are digitized and highly interconnected and 3) economies of scale create single points of failure in terms of “too big to fail” institutions.
 
 Now, let’s have a brief look at the scientific evidence that this claim of an inherent systemic risk in the financial system is based upon.
@@ -45,7 +49,9 @@ One outcome of this has been the Universality Theory, stating how complex flow n
 
 Both of these are influenced by **diversity** (the different types of agents/nodes in the network) as well as **interconnectivity** (the presence of pathways between agents/nodes). Bernard Lietaer, Robert Ulanowicz and Sally Goerner 2009 describe this dynamic as:
 
-> In general, a system’s resilience is enhanced by more diversity and more connections, because there are more channels to fall back on in times of trouble or change. Efficiency, on the other hand, increases through streamlining, which usually means reducing diversity and connectivity
+> In general, a system’s resilience is enhanced by more diversity and more connections, because there are more channels to fall back on in times of trouble or change. Efficiency, on the other hand, increases through streamlining, which usually means reducing diversity and connectivity.
+
+![_config.yml]({{ site.baseurl }}/images/Dynamics2.png)
 
 Sustainability curve mapped between the two polarities of efficiency and resilience (Lietaer et al. 2009)
 Whether processing biocells, energy or economic transactions, a complex network thus needs to properly balance resilience/efficiency to achieve a sustainable optimum: the Window of Viability. This optimum does not imply a balance of parity, but encompasses having a significantly greater emphasis on resilience than on efficiency.
@@ -59,18 +65,20 @@ The Positive Money movement suggests to take away the power from commercial bank
 
 Finally, there is People Money, or People Powered Money as the EU funded CCIA initiative names it. This in turn is complementary currencies, issued by groups of citizens or businesses, driven by local, social, environmental, commercial or mixed purposes. These currencies take offline or digital forms and are a response to the fundamental need of having a medium of exchange. A need which, due to the scarcity or volatility of bank and government monies, persists to exist all over the world. Contemporary examples range from community oriented ones (e.g LETS, Bangla-Pesa and Time Banking systems) through membership-based business networks (e.g WIR bank and Sardex), and customer ‘loyalty points’ oriented designs (e.g Frequent Flyer Miles) to blockchain technology based cryptocurrencies (e.g. Bitcoin, Ethereum and Z-cash).
 
+![_config.yml]({{ site.baseurl }}/images/Dynamics3.png)
+
 
 The effect of diverse Complementary Currencies (Lietaer et al. 2009)
 People Powered Money initiatives, being complementary and diverse, have the potential to sacrifice efficiency on behalf of resilience, thereby moving the financial system to the right direction towards a sustainable balance between the two.
 Inspired by the book Rethinking money, spiced up with a few recent blockchain technology examples, the next generation of a multitiered monetary ecosystem might look like something along the following lines:
 
-- A global reference currency, e.g Terra TRC / MakerDAO
-- Main multinational currencies, e.g USD / RMB / EURO backed tokens
-- International commercial scripts, e.g LEGO points / Frequent Flyer Miles
-- National currencies, in a non-exclusive legal tender statutory form
-- Regional currencies, e.g WIR Bank / Sardex(C3 design)
-- Local currencies, e.g Bristol Pound / Bangla-Pesa
-- Functional currencies e.g Ethereum / Gnosis / Saber
+- **A global reference currency**, e.g Terra TRC / MakerDAO
+- **Main multinational currencies**, e.g USD / RMB / EURO backed tokens
+- **International commercial scripts**, e.g LEGO points / Frequent Flyer Miles
+- **National currencies**, in a non-exclusive legal tender statutory form
+- **Regional currencies**, e.g WIR Bank / Sardex(C3 design)
+- **Local currencies**, e.g Bristol Pound / Bangla-Pesa
+- **Functional currencies** e.g Ethereum / Gnosis / Saber
 
 The above guesswork glimpses a future for a sustainable ecosystem where bank, government and people monies will be much more interwoven than today. The variety of currency designs and their high technological dependency also seek to make the point that there is a long way of collaboration ahead within and across the complementary currency and blockchain communities before we together can create a sustainable monetary ecosystem.
 
