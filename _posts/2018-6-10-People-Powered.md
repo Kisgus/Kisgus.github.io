@@ -9,7 +9,7 @@ title: Why the world needs People Powered Money
 
 An artificially made pine forest, designed to utmost efficiency, is vulnerable to sparks of fire, contrary to the resilience of a natural diverse ecosystem. In this post, I will explain how the same universal dynamics applies to the sustainability of the financial system.
 
-![_config.yml]({{ site.baseurl }}/images/Fire2.png)
+![_config.yml]({{ site.baseurl }}/images/Fire 2.png)
 
 
 ## Effects of a Bank Money monoculture
