@@ -3,7 +3,7 @@ layout: post
 title: Why the world needs People Powered Money
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Fraud.png)
+![_config.yml]({{ site.baseurl }}/images/Powered.png)
 
 
 
