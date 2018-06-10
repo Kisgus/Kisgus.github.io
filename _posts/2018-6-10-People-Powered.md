@@ -20,7 +20,7 @@ In the Ecology of Money from 2000, economist Richard Douthwaite argues money can
 - **Government Money** — created in the form of physical notes and coins
 - **People Money** — created by groups of businesses or groups of citizens
 
-In present times, almost all money in this world is bank money. In fact, the Bank of England in 2014, released the article Money creation in the modern economy, with the following introduction:
+In present times, **almost all money in this world is bank money**. In fact, the Bank of England in 2014, released the article Money creation in the modern economy, with the following introduction:
 
 > This article explains how the majority of money in the modern economy is created by commercial banks making loans”
 
@@ -43,7 +43,7 @@ One outcome of this has been the Universality Theory, stating how complex flow n
 - **Efficiency** measures the ability of a system to process volumes
 - **Resilience** measures the ability of a system to recover from disturbance
 
-Both of these are influenced by diversity (the different types of agents/nodes in the network) as well as interconnectivity (the presence of pathways between agents/nodes). Bernard Lietaer, Robert Ulanowicz and Sally Goerner 2009 describe this dynamic as:
+Both of these are influenced by **diversity** (the different types of agents/nodes in the network) as well as **interconnectivity** (the presence of pathways between agents/nodes). Bernard Lietaer, Robert Ulanowicz and Sally Goerner 2009 describe this dynamic as:
 
 > In general, a system’s resilience is enhanced by more diversity and more connections, because there are more channels to fall back on in times of trouble or change. Efficiency, on the other hand, increases through streamlining, which usually means reducing diversity and connectivity
 
