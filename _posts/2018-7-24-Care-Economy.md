@@ -2,6 +2,10 @@
 layout: post
 title: Entering the Care Economy
 ---
+
+![_config.yml]({{ site.baseurl }}/images/Group.JPG)
+
+
 ## Kick-off meetup in Caux
 
 Initiative for change
