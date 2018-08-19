@@ -14,7 +14,7 @@ I eventually found out the Caux Palace was runned by the **initiative for change
 
 ## Towards a Manifest
 
-If one might assosciate the concept of the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb allowing competetive p2p marketpalces via centralized intermediaries the **Caring Economy** is supposed to represent the opposite. The manifest of the Care Economy can as of now be summarized as:
+If one might assosciate the concept of the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb allowing competetive p2p marketpalces via centralized intermediaries the **Caring Economy** is supposed to represent the opposite. The manifest of the Care Economy can (as of now) be summarized as:
 
 
 The far vision is that all of humanity work together.
