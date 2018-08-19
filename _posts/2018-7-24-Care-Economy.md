@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Entering the Caring Economy
+title: Entering the Care Economy
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Group.png)
 
+## Share or Care?
 
-If one might assosciate the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb the **Caring Economy** can be defined as representing the next technological and moral step.
+This May I participated at the kick-off workshop of the Care Economy together with interesting people from all over the world. The workshop took place in a wonderfull setting at the Caux Palace, in the small mountain city Caux, near the Geneva lake in Schwitzerland. Before going there I was stunned by the magnificent pictures of the Caux Palace. Before going there I talked to my mother, and she was quite skeptical why an alledgly highly humanitarian and alturistic conference would be hosted at such a
+a financial non-inclusive and remote place.
+
+If one might assosciate the concept of the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb allowing competetive p2p marketpalces via centralized intermediaries the **Caring Economy** is supposed to represent the opposite. In the remainder of this post I will share my understanding of what that encompass.
 
 
-
-## Kick-off meetup in Caux
+## The setting Kick-off meetup in Caux
 
 Initiative for change
 
