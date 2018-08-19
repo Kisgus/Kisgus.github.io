@@ -7,7 +7,7 @@ title: Entering the Care Economy
 
 ## The Caux Palace
 
-This May I participated at the kick-off workshop of the Care Economy together with interesting people from all over the world. The workshop took place in a wonderfull setting at the Caux Palace, in the small mountain city Caux, near the Geneva Lake in Schwitzerland. Before going there I was stunned by the magnificent pictures of the Caux Palace. Before going there I talked to my mother, and she was quite skeptical why an alledgly highly humanitarian and alturistic conference would be hosted at such
+This May I participated at the kick-off workshop of the Care Economy together with interesting people from all over the world. The workshop took place in a wonderfull setting at the [Caux Palace](https://en.wikipedia.org/wiki/Caux_Palace_Hotel), in the small mountain city Caux, near the Geneva Lake in Schwitzerland. Before going there I was stunned by the magnificent pictures of the Caux Palace. Before going there I talked to my mother, and she was quite skeptical why an alledgly highly humanitarian and alturistic conference would be hosted at such
 a financial non-inclusive and remote place?
 
 I eventually found out the Caux Palace was runned by the **initiative for change** foundation, and that this place had served as a very historic location for peace making for almost a century.
