@@ -22,7 +22,7 @@ That is abundance over scarticity. Collaboration over competition.
 The below vision statement are the words of [Béla Hatvany](https://en.wikipedia.org/wiki/B%C3%A9la_Hatvany), who during his long live have made numerous innovations, including the touch-screen, CD-ROM and database building block of the internet. Béla is today with his family supporting the Care Economy financially and intellectually via the Mustardseed Trust and other organisations.
 
 
-## Towards a Manifest for an abundant Economic System
+## Towards a new social contract
 
 The far vision is that all of humanity work together.
  
