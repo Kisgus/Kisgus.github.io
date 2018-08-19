@@ -12,10 +12,17 @@ a financial non-inclusive and remote place? Wasen't that against the whole point
 
 I eventually found out the Caux Palace was runned by the [initiative for change](https://www.iofc.org/) foundation, and that this place had served as a very historic location for peace making for almost a century. I also discovered participants from remote places in less fortunate economic situations had their costs covered by the [Mustardseed Trust](http://www.mustardseedtrust.org/belas-salon/). 
 
-## Towards a Manifest
 
-If one might assosciate the concept of the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb allowing competetive p2p marketpalces via centralized intermediaries the **Caring Economy** is supposed to represent the opposite. The manifest of the Care Economy can (as of now) be summarized as:
+## Sharing vs Caring
 
+If one might assosciate the actual implementation of the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb, the **Caring Economy** in its essence is supposed to represent the opposite. 
+
+That is abundance over scarticity. Collaboration over competition.
+
+The below vision statement are the words of [Béla Hatvany](https://en.wikipedia.org/wiki/B%C3%A9la_Hatvany), who during his long live have made numerous innovations, including the touch-screen, CD-ROM and database building block of the internet. Béla is today with his family supporting the Care Economy financially and intellectually via the Mustardseed Trust and other organisations.
+
+
+## Towards a Manifest for an abundant Economic System
 
 The far vision is that all of humanity work together.
  
