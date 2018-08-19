@@ -7,10 +7,10 @@ title: Entering the Care Economy
 
 ## The Caux Palace
 
-This May I participated at the kick-off workshop of the Care Economy together with interesting people from all over the world. The workshop took place in a wonderfull setting at the [Caux Palace](https://en.wikipedia.org/wiki/Caux_Palace_Hotel), in the small mountain city Caux, near the Geneva Lake in Schwitzerland. Before going there I was stunned by the magnificent pictures of the Caux Palace. Before going there I talked to my mother, and she was quite skeptical why an alledgly highly humanitarian and alturistic conference would be hosted at such
-a financial non-inclusive and remote place?
+This May I participated at the kick-off workshop of the Care Economy together with very different and very interesting people from all over the world bringing all sorts of knowledge to the table. The workshop took place in a wonderfull setting at the [Caux Palace](https://en.wikipedia.org/wiki/Caux_Palace_Hotel), in the small mountain city Caux, near the Geneva Lake in Schwitzerland. Before going there I was stunned by the magnificent pictures of the Caux Palace. I talked to my mother about my stay, and she was quite skeptical why an alledgly highly humanitarian and alturistic conference would be hosted at such
+a financial non-inclusive and remote place? Wasen't that against the whole point?
 
-I eventually found out the Caux Palace was runned by the **initiative for change** foundation, and that this place had served as a very historic location for peace making for almost a century. I also discovered participants from remote places had their costs covered by [Mustardseed Trust](http://www.mustardseedtrust.org/belas-salon/). 
+I eventually found out the Caux Palace was runned by the [initiative for change](https://www.iofc.org/) foundation, and that this place had served as a very historic location for peace making for almost a century. I also discovered participants from remote places had their costs covered by [Mustardseed Trust](http://www.mustardseedtrust.org/belas-salon/). 
 
 ## Towards a Manifest
 
