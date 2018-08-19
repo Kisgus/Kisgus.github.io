@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Entering the Care Economy
+title: Entering the Caring Economy
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Group.png)
+
+
+Whereas the **Sharing Economy**, has been conqured by IP protected monapolistic multi-sided platforms such as Facebook, Uber, Airbnb the **Caring Economy** represents fundamental different values. 
+
 
 
 ## Kick-off meetup in Caux
