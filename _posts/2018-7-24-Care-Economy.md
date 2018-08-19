@@ -6,7 +6,7 @@ title: Entering the Caring Economy
 ![_config.yml]({{ site.baseurl }}/images/Group.png)
 
 
-Whereas the **Sharing Economy**, has been conqured by IP protected monapolistic multi-sided platforms such as Facebook, Uber, Airbnb the **Caring Economy** represents fundamental different values. 
+If one might assosciate the **Sharing Economy** with big multi-sided platforms such as Facebook, Uber & Airbnb the **Caring Economy** can be defined as representing the next technological and moral step.
 
 
 
