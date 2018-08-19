@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first time applying the blockchain technology
+title: My first time applying Ethereum
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Fraud.png)
