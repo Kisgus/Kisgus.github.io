@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Choosing the right side
+title: People Powered Technology
 permalink: /about/
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Human.PNG)
 
->That is, while there is value in technology, I value humans more
+>"That is, while there is value in technology, I value people more"
 
 
 
