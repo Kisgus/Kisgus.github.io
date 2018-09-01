@@ -6,6 +6,8 @@ title: Lean & Agile Software Development
 ![_config.yml]({{ site.baseurl }}/images/Lean.png)
 
 
+![_config.yml]({{ site.baseurl }}/images/Public_thesis.pdf)
+
 ## Background
 
 The dynamics and uncertainty within the software market challenges successful software developing companies to be able to respond quickly to change. Contrary to traditional plan- driven methodologies, Agile and Lean are still more frequently mentioned among academics and practitioners, to facilitate the flexibility, creativity and effectiveness needed in order to survive in a chaordic industry.
