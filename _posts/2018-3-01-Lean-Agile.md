@@ -5,8 +5,8 @@ title: Lean & Agile Software Development
 
 ![_config.yml]({{ site.baseurl }}/images/Lean.png)
 
-
-![_config.yml]({{ site.baseurl }}/images/Public_thesis.pdf)
+[Download here](Kisgus.github.io/images/Public_Thesis.pdf)
+    
 
 ## Background
 
