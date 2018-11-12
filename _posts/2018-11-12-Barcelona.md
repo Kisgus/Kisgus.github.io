@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decentralized Mutual-Credit Community Currencies
+title: Permissionless Community Currencies
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/UN.png)
