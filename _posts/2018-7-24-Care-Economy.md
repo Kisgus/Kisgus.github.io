@@ -26,7 +26,7 @@ The below vision statement are the words of [Béla Hatvany](https://en.wikipedia
 
 The far vision is that all of humanity work together.
  
-1.          We know know we must not till the earth. The soil can become ever more fertile and yield abundantly if we start to use our current agricultural understandings world wide.
+1.          We now know we must not till the earth. The soil can become ever more fertile and yield abundantly if we start to use our current agricultural understandings world wide.
 2.          We now know we must store and use the massive amounts of energy the sun gives us each day. We now know how to do this.
 3.          We know we must have a money system that is a currency and not a store of value, that flows abundantly to enable us produce and use what is needed to restore our earth.
 4.          We know that we must change from our current domination culture to a collaborative partnership culture that is true to our fundamental nature. We must find our way out of the domination culture that we have allowed to enslave us all.
