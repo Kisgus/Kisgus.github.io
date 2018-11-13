@@ -5,7 +5,7 @@ title: Permissionless Community Currencies
 
 ![_config.yml]({{ site.baseurl }}/images/Title.png)
 
-**In this post I will cover the evolution of a recent publication I co-authored on mutual-credit permissionless community currencies.**
+**In this post I will cover the evolution of a recent publication I co-authored on permissionless mutual-credit community currencies.**
 
 
 ## The beginning
