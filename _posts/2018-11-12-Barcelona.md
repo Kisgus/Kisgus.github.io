@@ -17,12 +17,9 @@ Back in 2017 I submitted a conference paper, and attended the [4th International
 A video of my presentation can be [viewed here](https://www.youtube.com/results?search_query=trustlines+network) 
 
 
-## The Journal Article
+## The journal article
 
-## Objective of the paper
-
-
-Utilizing a design science approach our objective of the paper was to:
+Utilizing a design science approach our research objectives of the paper was to:
 
 - Create a future value type of community currency, which allows the participants to exercise governance
 rules while offering accountability by being based on a bilateral dispersive money creation process.
@@ -30,13 +27,13 @@ rules while offering accountability by being based on a bilateral dispersive mon
 which can be used for community exchange in a secure, transparent and cross-community interoperable
 manner.
 
+The full paper can be downloaded free from the International Journal of Community Currency Research (IJCCR) [here.pdf](https://ijccr.files.wordpress.com/2018/09/71-84-ijccr-2018-summer-friis-glaser1.pdf)
+
 
 ### Past, Present & Future Money
 
 ![_config.yml]({{ site.baseurl }}/images/table1.png)
 
-
-The full paper can be downloaded free from the International Journal of Community Currency Research (IJCCR) [here.pdf](https://ijccr.files.wordpress.com/2018/09/71-84-ijccr-2018-summer-friis-glaser1.pdf)
 
 ### Comparison to other money and payment systems
 
@@ -49,3 +46,8 @@ The full paper can be downloaded free from the International Journal of Communit
 
 
 ![_config.yml]({{ site.baseurl }}/images/UN.png)
+
+
+## RAMICS conference in 2019
+
+
