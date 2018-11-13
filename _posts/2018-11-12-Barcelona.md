@@ -32,6 +32,8 @@ The full paper can be downloaded free from the International Journal of Communit
 
 ### Past, Present & Future Money
 
+Our choice of choosing mutual-credit currencies, was based on the below assumptions that money act as an accesible medium of exchange, based on its  about pros/cons of different types of money
+
 ![_config.yml]({{ site.baseurl }}/images/table1.png)
 
 
