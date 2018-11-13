@@ -5,7 +5,7 @@ title: Permissionless Community Currencies
 
 ![_config.yml]({{ site.baseurl }}/images/Title.png)
 
-In this post I will cover the evolution of a recent publication I co-authored on mutual-credit permissionless community currencies.
+**In this post I will cover the evolution of a recent publication I co-authored on mutual-credit permissionless community currencies.**
 
 
 ## The beginning
@@ -18,6 +18,17 @@ A video of my presentation can be [viewed here](https://www.youtube.com/results?
 
 
 ## The Journal Article
+
+## Objective of the paper
+
+
+Utilizing a design science approach our objective of the paper was to:
+
+- Create a future value type of community currency, which allows the participants to exercise governance
+rules while offering accountability by being based on a bilateral dispersive money creation process.
+- Utilize the properties of blockchain technology in order to provide a freely accessible medium of exchange,
+which can be used for community exchange in a secure, transparent and cross-community interoperable
+manner.
 
 
 ### Past, Present & Future Money
