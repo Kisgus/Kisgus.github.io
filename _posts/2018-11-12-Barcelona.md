@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Permissionless Community Currencies
+title:
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Title.png)
