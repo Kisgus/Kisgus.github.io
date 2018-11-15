@@ -1,20 +1,17 @@
 ---
 layout: post
-title: Extending Community Currencies
+title: Community Currencies in UN
 ---
-
-![_config.yml]({{ site.baseurl }}/images/Title.png)
-
-**In this post I will cover the evolution of a recent community currency publication I co-authored on permissionless mutual-credit community currencies.**
+![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
 
 
-## Conference paper
+## Research paper
 
 Back in 2017 I submitted a conference paper, and attended the [4th International Conference on Social and Complementary](https://ijccr.net/2016/08/27/iv-international-conference-on-social-and-complementary-currencies-10-14-may-2017/) taking place in Barcelona. The conference was organized by Research Assosication on Monetary Innovation and Commplementary Currency Systems aka [RAMICS](https://ramics.org/barcelona2017/) and featued several hundred researchers and practitioners working on social community, complementary and socail currencies all around the world. 
 
-![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
+![_config.yml]({{ site.baseurl }}/images/Title.png)
  
-A video of my presentation can be [viewed here](https://www.youtube.com/results?search_query=trustlines+network) 
+A video of my presentation can be [viewed here](https://www.youtube.com/results?search_query=trustlines+network).
 
 
 ## Research objectives
@@ -40,12 +37,10 @@ Our choice of choosing mutual-credit currencies, was based on the below assumpti
 ### Summary of the Trustlines Prototype 
 
 
-The proposed prototype is named [Trustlines Network](trustlines.netwokr). It is a decentralised, permissionless, open source blockchain protocol to host multiple mutual-credit currency networks. In these currency networks, money is represented as bilateral obligations issued in form of "credit lines" between people that trust each other. The proposed Trustlines prototype
+The proposed prototype is named [Trustlines Network](trustlines.network). It is a decentralised, permissionless, open source blockchain protocol to host multiple mutual-credit currency networks. In these currency networks, money is represented as bilateral obligations issued in form of "credit lines" between people that trust each other. The proposed Trustlines prototype
 allows everyone with a smartphone to send payments to other participants - even to those that they don’t
 know or trust. In that way, the system resembles the decentralised issuance of IOU’s taking place in Local Exchange
 Systems [(LETS)](https://en.wikipedia.org/wiki/Local_exchange_trading_system). Where LETS are built on the mutual-credit principle, Trustlines is an interconnected network of multiple LETS. People can only be liable up to the amount they decided to entrust in direct connections to other people. The enforceability of IOU claims is therefore informal and up to the two participants that set up a Trustline between each other. 
-
-### 
 
 
 ### Comparison to other money and payment systems
@@ -54,13 +49,23 @@ Systems [(LETS)](https://en.wikipedia.org/wiki/Local_exchange_trading_system). W
 ![_config.yml]({{ site.baseurl }}/images/table2.png)
 
 
+Given the previous description of the Trustlines Network prototype, we identify three crucial advantages in comparison
+to other (cryptocurrency-based) community currencies: 1) Ease of adoption and joining the network 2)
+open smart-contract platform API and 3) enabling user issued (dispersive) money that can be used to make both
+intra- and inter-community payments. In regard to these three advantages, we consider the prototype to fulfil the
+design objectives. It combines the desired properties of credit based future type of money with the security, customizability
+and interoperability offered by blockchain technology
 
 ## Community Currencies in United Nations
-
 
 ![_config.yml]({{ site.baseurl }}/images/UN.png)
 
 
 ## RAMICS conference in 2019
+
+The 5th International Conference organised Makoto Nishibe and his team in JAPAN has been scheduled for September 11-15, 2019. It is going to take place in Takayama, Gifu. Details will be announced in due course. Checkout [the link here]([The (https://ramics.org/2018/01/05/japan-2019-our-next-conference/)). I hope to be able to participate myself
+
+
+
 
 
