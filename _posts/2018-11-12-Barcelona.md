@@ -1,6 +1,6 @@
 ---
 layout: post
-title. Extending Community Currencies
+title: Extending Community Currencies
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Title.png)
