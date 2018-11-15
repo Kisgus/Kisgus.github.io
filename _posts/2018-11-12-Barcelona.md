@@ -8,14 +8,22 @@ title: Community Currencies in UN
 
 ## Research paper
 
-Back in 2017 I submitted a conference paper, and attended the [4th International Conference on Social and Complementary](https://ijccr.net/2016/08/27/iv-international-conference-on-social-and-complementary-currencies-10-14-may-2017/) taking place in Barcelona. The conference was organized by Research Assosication on Monetary Innovation and Commplementary Currency Systems aka [RAMICS](https://ramics.org/barcelona2017/) and featued several hundred researchers and practitioners working on social community, complementary and socail currencies all around the world. 
+Back in 2017 I submitted a conference paper, and attended the [4th International Conference on Social and Complementary](https://ijccr.net/2016/08/27/iv-international-conference-on-social-and-complementary-currencies-10-14-may-2017/) taking place in Barcelona. 
 
-![_config.yml]({{ site.baseurl }}/images/Title.png)
+
+![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
+
+
+The conference was organized by Research Assosication on Monetary Innovation and Commplementary Currency Systems aka [RAMICS](https://ramics.org/barcelona2017/) and featued several hundred researchers and practitioners working on social community, complementary and socail currencies all around the world. 
  
 A video of my presentation can be [viewed here](https://www.youtube.com/results?search_query=trustlines+network).
 
 
+
 ## Research objectives
+
+
+![_config.yml]({{ site.baseurl }}/images/Title.png)
 
 Utilizing a design science approach our research objectives of the paper was to:
 
@@ -59,16 +67,10 @@ intra- and inter-community payments. In regard to these three advantages, we con
 design objectives. It combines the desired properties of credit based future type of money with the security, customizability
 and interoperability offered by blockchain technology
 
-## Community Currencies in United Nations
 
+## RAMICS conference in Japan 2019
 
-
-![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
-
-
-## RAMICS conference in 2019
-
-The 5th International Conference organised Makoto Nishibe and his team in JAPAN has been scheduled for September 11-15, 2019. It is going to take place in Takayama, Gifu. Details will be announced in due course. Checkout [the link here]([The (https://ramics.org/2018/01/05/japan-2019-our-next-conference/)). I hope to be able to participate myself
+The 5th International Conference on Social and Complementary Currencies, organised by Makoto Nishibe and his team in JAPAN has been scheduled for **September 11-15, 2019**. It is going to take place in Takayama, Gifu. Details will be announced in due course. Checkout [the link here]([The (https://ramics.org/2018/01/05/japan-2019-our-next-conference/)). 
 
 
 
