@@ -4,7 +4,7 @@ title: Liquid Democracy: The Foundation
 ---
 
 
-## Demoracy and Constituonalism
+## Demoracy and Constitutionalism
 
 ### Democracy
 
