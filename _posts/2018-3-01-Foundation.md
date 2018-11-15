@@ -49,7 +49,7 @@ The core of the Liquid Democracy is a new democratic voting model, consisting of
 
 **4. Immediate revocation** means that you can revoke any vote you have delegated to a delegate at any time and then either use your voice yourself by voting directly or delegating it to a new delegate (Blum and Zuber 2015: 165F).
 
-## Balancing power
+## Actors and Incentives
 
 ### Delegates
 
@@ -57,7 +57,7 @@ In an FD, the population itself decides to what extent they will be represented 
 
 ### Compensation
 
-However, the option of immediate revocation by the voters will probably be a natural limitation on the extent of fluctuations that will be seen by each delegate as this may result in the delegate losing most of his delegated votes (Ibid: 178f).
+The option of immediate revocation by the voters will probably be a natural limitation on the extent of fluctuations that will be seen by each delegate as this may result in the delegate losing most of his delegated votes (Ibid: 178f).
 In a FD, Green-Armytage delegates also need financial compensation if they receive many delegated votes so that they can serve as a form of half-time or full-time politicians. This can ensure the quality of the political work and prevent the FD from being dominated by economically strong special interests (Green-Armytage 2015: 203f). However, the concrete design of a compensation system is a practical challenge, as it may create some inappropriate incentives for delegates, for example, losing financial resources when using the opportunity for meta-delegation (Map & Fields: 109f).
 
 ### Parties & Organisations
@@ -67,10 +67,6 @@ In an FD, voters should also be allowed to delegate their vote to either a party
 ### Seperation of power
 
 The power of division of power must be maintained in the FD, but the balance of power between legislative and executive power is changed (Green-Armytage 2015: 209, Blum & Zuber 2016, Map & Fields 2014). In the FD, delegates and voters get the sovereign power over the legislative process. However, the option of flexible delegation by the electorate could lead to lack of consistency in the political majority across policy areas. Therefore, it will still be necessary to have a government that can lead implementation of legislation, including ensuring co-ordination and coherence between legislation across different policy areas, as also shown in the Output Legitimacy Analysis. The ministers thus stand out of a classic political role, and can be more clearly understood as a form of democratically elected officials. In order to ensure some stability, the government should not be subject to the mechanisms of the FD, but instead be chosen democratically for a fixed period of time (Blum & Zuber 2015: 181, Map & Fields 2014: 137ff). On the other hand, the judging power will have a largely unchanged role in the FD (Map & Field of Languages 2014: 131).
-
-### Creation of new laws
-
-The FD not only allows voters to participate in the adoption of legislation, but also invites them to develop new policies. This means that a task currently being carried out by 179 members of parliament with the help of the office will suddenly be a task for all voting citizens (Map & Fields 2014: 128). Previously, a collective legislative process would have been an impossible coordination challenge, but with the new communication-based technology options it is relatively easy to design a digital democracy platform today, where voters can discuss and collaborate on developing new legislation.
 
 ## Voting Mechanisms
 
