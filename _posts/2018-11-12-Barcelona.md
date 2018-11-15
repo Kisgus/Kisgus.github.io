@@ -1,14 +1,20 @@
 ---
 layout: post
-title: Community Currencies in UN
+title: Community Currencies in United Nations
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/UN.png)
 
+Two weeks ago I presented the research paper "Extending Blockchain Technology to Host Customizable and Interoperable Communitty Curencies" in the United Nations, Genva, during the World Investment Forum 2018. 
 
-## Research paper
+![_config.yml]({{ site.baseurl }}/images/UNs.png)
 
-Back in 2017 I submitted a conference paper, and attended the [4th International Conference on Social and Complementary](https://ijccr.net/2016/08/27/iv-international-conference-on-social-and-complementary-currencies-10-14-may-2017/) taking place in Barcelona. 
+It was truly amazing to witness how the subjects of blockchain technology and community currencies, communicated by Bancor Network, Bangla-Pesa, Cumbria University and ComplementaryCurrencies.org were broadly very well received.
+
+
+## Trustlines Research paper
+
+The Trustlines research paper I presented was originally published as a conference paper, as a requirement to attended the [4th International Conference on Social and Complementary](https://ijccr.net/2016/08/27/iv-international-conference-on-social-and-complementary-currencies-10-14-may-2017/) taking place in Barcelona 2017. 
 
 
 ![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
