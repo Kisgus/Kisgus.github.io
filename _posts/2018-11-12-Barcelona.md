@@ -2,7 +2,8 @@
 layout: post
 title: Community Currencies in UN
 ---
-![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
+
+![_config.yml]({{ site.baseurl }}/images/UN.png)
 
 
 ## Research paper
@@ -58,7 +59,9 @@ and interoperability offered by blockchain technology
 
 ## Community Currencies in United Nations
 
-![_config.yml]({{ site.baseurl }}/images/UN.png)
+
+
+![_config.yml]({{ site.baseurl }}/images/IJCCR.png)
 
 
 ## RAMICS conference in 2019
