@@ -43,6 +43,8 @@ allows everyone with a smartphone to send payments to other participants - even 
 know or trust. In that way, the system resembles the decentralised issuance of IOU’s taking place in Local Exchange
 Systems [(LETS)](https://en.wikipedia.org/wiki/Local_exchange_trading_system). Where LETS are built on the mutual-credit principle, Trustlines is an interconnected network of multiple LETS. People can only be liable up to the amount they decided to entrust in direct connections to other people. The enforceability of IOU claims is therefore informal and up to the two participants that set up a Trustline between each other. 
 
+A demo video of the trustlines prototype can be [viewed here](https://www.youtube.com/watch?v=CgufxZ4Srwk&t=2s) 
+
 
 ### Comparison to other money and payment systems
 
