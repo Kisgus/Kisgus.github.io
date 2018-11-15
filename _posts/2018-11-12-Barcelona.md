@@ -9,7 +9,7 @@ Two weeks ago I presented the research paper "Extending Blockchain Technology to
 
 ![_config.yml]({{ site.baseurl }}/images/UNs.png)
 
-It was truly amazing to witness how the subjects of blockchain technology and community currencies, communicated by Bancor Network, Bangla-Pesa, Cumbria University and ComplementaryCurrencies.org were broadly very well received.
+It was truly amazing to witness how the subjects of blockchain technology and community currencies, communicated by Bancor Network, Bangla-Pesa, Cumbria University and ComplementaryCurrencies.org were received with great interest among the diverse international delegates present in the audience.
 
 
 ## Trustlines Research paper
