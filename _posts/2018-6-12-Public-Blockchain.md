@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first time applying Ethereum
+title: Countering doubble-taxation fraud with Ethereum
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Fraud.png)
