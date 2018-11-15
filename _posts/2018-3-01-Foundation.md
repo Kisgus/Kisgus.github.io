@@ -37,7 +37,7 @@ Ford develops a coherent democracy model, which he calls for delegative democrac
  and describes his vision of an electronic delegation democracy that allows for area-specific delegation, 
 but the concept of delegative democracy never really hits.
 
-### Four Basic Rights 
+## Four Basic Rights 
 
 The core of the Liquid Democracy is a new democratic voting model, consisting of 4 basic elements, or perhaps more precisely 4 rights to all voting citizens within a democratic state or regional political entity. The four basic elements are:
 
@@ -49,6 +49,7 @@ The core of the Liquid Democracy is a new democratic voting model, consisting of
 
 **4. Immediate revocation** means that you can revoke any vote you have delegated to a delegate at any time and then either use your voice yourself by voting directly or delegating it to a new delegate (Blum and Zuber 2015: 165F).
 
+## Balancing power
 
 ### Delegates
 
