@@ -1,12 +1,12 @@
 ---
 layout: page
-title: People Powered Technology
+title: People First!
 permalink: /about/
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Human.PNG)
 
->"That is, while there is value in technology, I value people more"
+>"While there is value in technology, I value people more"
 
 
 
